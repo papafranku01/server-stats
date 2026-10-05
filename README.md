@@ -1,3 +1,11 @@
-This is my repo for learning DevOps from roadmap.sh. Hoping to learn more and apply what I learned to a real job! :D
+How to run server-stats.sh
 
-Project #1: https://roadmap.sh/projects/server-stats
+# Change Permission
+chmod +x server-stats.sh
+
+# Run Script
+./server-stats.sh
+
+# Additional Features
+1. OS Version
+2. Terminal Uptime
